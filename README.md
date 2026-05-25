@@ -1,5 +1,5 @@
 🇬🇧
-Details:
+# Details:
 - Continuation of the Astro-Adventure-3D-Unity-Developer-Module-30 project;
 - Added two types of enemies;
 - Each enemy has a life, a death state, and is affected by weapons;
@@ -8,7 +8,7 @@ Details:
 - Created a particle for enemy death.
 
 🇧🇷
-Detalhes:
+# Detalhes:
 - Continuidade do projeto Astro-Adventure-3D-Unity-Developer-Module-30;
 - Adicionados dois tipos de inimigos;
 - Cada inimigo tem uma vida, um estado de morte e são afetados
